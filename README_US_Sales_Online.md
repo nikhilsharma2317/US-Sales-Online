@@ -8,6 +8,10 @@ This project focuses on the analysis of online sales data in the US. It uses SQL
 - `US Sales Online.ipynb`: This is the Jupyter notebook containing the data analysis. It includes SQL queries for various types of analyses and uses pandas for data manipulation and analysis.
 - `requirements_US_Sales_Online.txt`: This file lists the Python packages required to run the notebook.
 
+## Tableau Visualization
+
+You can explore interactive visualizations of the US Sales Online data using Tableau. Visit the [US Sales Online Dashboard](https://public.tableau.com/app/profile/nikhil.sharma8084/viz/OnlineSalesinUSOct20_Sep21/Dashboard1) on Tableau Public to access the visualizations.
+
 ## Installation & Usage
 
 To run this project, follow these steps:
