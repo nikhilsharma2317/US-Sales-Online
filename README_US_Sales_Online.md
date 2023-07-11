@@ -5,7 +5,7 @@ This project focuses on the analysis of online sales data in the US. It uses SQL
 
 ## Files in the Repository
 
-- `US Sales Online Updated.ipynb`: This is the Jupyter notebook containing the data analysis. It includes SQL queries for various types of analyses and uses pandas for data manipulation and analysis.
+- `US Sales Online.ipynb`: This is the Jupyter notebook containing the data analysis. It includes SQL queries for various types of analyses and uses pandas for data manipulation and analysis.
 - `requirements_US_Sales_Online.txt`: This file lists the Python packages required to run the notebook.
 
 ## Installation & Usage
